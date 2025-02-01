@@ -1,0 +1,45 @@
+Feature,Importance
+feat08,206
+feat02,178
+feat03,163
+feat06,154
+feat05,131
+feat10,130
+alcohol_sulphates,126
+so2_ratio,118
+feat09,117
+alcohol_sugar_ratio,114
+sulphates,111
+density,108
+volatile acidity,104
+citric_volatile_acidity,97
+total_acidity,82
+feat01,80
+chlorides,78
+acidity_ratio,77
+pH,77
+free_total_sulfur,77
+chlorides_density_ratio,74
+alcohol_residual_sugar,65
+sugar_density_ratio,64
+citric acid,63
+free sulfur dioxide,56
+total sulfur dioxide,45
+fixed acidity,42
+alcohol,41
+residual sugar,15
+alcohol_bin_high_True,5
+alcohol_squared,0
+residual_sugar_squared,0
+wine_cluster,0
+pH_squared,0
+chlorides_log,0
+residual_sugar_log,0
+sulphates_sqrt,0
+is_high_alcohol,0
+alcohol_bin_medium_True,0
+alcohol_bin_very high_True,0
+pH_bin_low_True,0
+pH_bin_medium_True,0
+sugar_bin_medium_True,0
+sugar_bin_sweet_True,0
