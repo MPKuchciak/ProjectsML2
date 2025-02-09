@@ -4,5 +4,6 @@
 # Ignore VS Code settings folder
 .vscode/
 
-# Ignore everything inside xgboost_env inside XGBOOST_ENV
-XGBOOST_ENV/xgboost_env/
+# Ignore everything inside the XGBOOST_ENV folder inside Classification/notebooks/
+notebooks/XGBOOST_ENV/
+
