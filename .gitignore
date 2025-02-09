@@ -1,1 +1,9 @@
-redwinequality-regression/keras_tuner_dir/
+# Ignore all folders containing "archive" in their name
+**/*archive*/
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore everything inside the XGBOOST_ENV folder inside Classification/notebooks/
+Classification/notebooks/XGBOOST_ENV/
+
